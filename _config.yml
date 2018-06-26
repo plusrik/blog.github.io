@@ -78,6 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  repo:https://github.com/plusrik/plusrik.github.io.git
+  repo:https://github.com/plusrik/blog.github.io.git
   type:git
   branch:gh-pages
