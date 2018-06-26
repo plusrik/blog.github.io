@@ -14,7 +14,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://plusrik.github.io/blog.github.io/
-root: /plusrik.github.io/blog.github.io/blog/public
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -80,4 +80,4 @@ theme: landscape
 deploy:
   repo:https://github.com/plusrik/blog.github.io.git
   type:git
-  branch:gh-pages
+  branch:master
